@@ -1,2 +1,2 @@
-# designstudios
+# Design Studios
 Joomla with Bootstrap
